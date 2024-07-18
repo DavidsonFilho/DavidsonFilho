@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DavidsonFilho
-- 👀 I’m interested in programmer.
+- 👀 I’m interested in programming.
 - 🌱 I’m currently learning Enginner of Software.
 - 💞️ I’m looking to collaborate on projects.
-- 📫 How to reach me Davi.
+- 📫 How to reach me daviddjcf@gmail.com.
 - 😄 Pronouns: He.
 - ⚡ Fun fact: Cruzeiro!
 
